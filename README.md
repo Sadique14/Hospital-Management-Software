@@ -3,6 +3,6 @@ Software Development Project
 
 
 
-Md. Farhan Sadique
-CSE Discipline
+Md. Farhan Sadique,
+CSE Discipline,
 Khulna University, Khulna.
